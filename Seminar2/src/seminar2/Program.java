@@ -21,6 +21,11 @@ public class Program {
 //        String s1 = "Hello"; // Создание строки литералом
 //        String s2 = new String("World"); // Создание строки с помощью конструктора
 
+//        String str1 = "Hello"; // str1 = s1 (ссылки одинаковые)
+// Заметка: Пул строк является фундаментальным/общим уровнем.
+
+//        String[] seasons = new String[] {"Winter", "Spring", "Summer", "Autumn", "Hello"};
+
 //        String s = "Hello";
 //        int length = s.length(); // Возвращает длину строки
 
