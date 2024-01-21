@@ -33,7 +33,7 @@ public class LinkedListExample1 {
         System.out.println("Список после удаления: " + linkedList);
 
         // Добавляем элемент в начало списка
-        linkedList.offerFirst("Новый элемент в начало");    // если спимок переполнен вернет false и элемент не будет добавлен в список
+        linkedList.offerFirst("Новый элемент в начало");    // если список переполнен вернет false и элемент не будет добавлен в список
         //linkedList.addFirst("...") - вернет исключение IllegalStateException
     }
 }
