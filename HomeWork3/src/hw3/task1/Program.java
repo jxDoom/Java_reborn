@@ -1,6 +1,6 @@
 package hw3.task1;
 
-import java.util.Arrays;
+/*import java.util.Arrays;
 
 public class Program {
     public static void main(String[] args) {
@@ -37,7 +37,7 @@ class MergeSort{
         int[] buffer2 = new int[arr.length];
         return mergeSorted(buffer1, buffer2, 0, arr.length);
     }
-}
+}*/
 
 //-----------------------------------------------------------------------------------------------
 
